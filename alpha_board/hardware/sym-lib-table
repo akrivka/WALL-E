@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dm1b")(type "KiCad")(uri "${MY_LIBRARY}/DM1B-DSF-PEJ_82_.kicad_sym")(options "")(descr ""))
+)
