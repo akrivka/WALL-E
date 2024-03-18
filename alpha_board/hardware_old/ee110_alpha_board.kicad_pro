@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.5,
-          "width": 1.5
+          "drill": 0.0,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -58,7 +58,12 @@
           "width": 0.0
         },
         {
-          "gap": 0.381,
+          "gap": 0.0635,
+          "via_gap": 0.0,
+          "width": 0.3302
+        },
+        {
+          "gap": 1.016,
           "via_gap": 0.0,
           "width": 1.778
         }
@@ -186,8 +191,9 @@
       "track_widths": [
         0.0,
         0.1524,
-        0.2794,
-        0.762,
+        0.3302,
+        0.508,
+        1.016,
         1.778
       ],
       "tuning_pattern_settings": {
@@ -220,6 +226,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.1524,
+          "drill": 0.0254
         },
         {
           "diameter": 0.3302,
@@ -607,11 +617,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./gerber",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "./pdf",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
