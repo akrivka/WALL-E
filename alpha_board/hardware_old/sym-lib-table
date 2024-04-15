@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "dm1b")(type "KiCad")(uri "${MY_LIBRARY}/DM1B-DSF-PEJ_82_.kicad_sym")(options "")(descr ""))
-  (lib (name "lcd2004")(type "KiCad")(uri "${MY_LIBRARY}/LCD-20X4B.kicad_sym")(options "")(descr ""))
-  (lib (name "pot")(type "KiCad")(uri "${MY_LIBRARY}/PTV09A-2015U-B103.kicad_sym")(options "")(descr ""))
-)
