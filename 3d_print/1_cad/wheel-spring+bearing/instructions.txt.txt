@@ -1,0 +1,32 @@
+Notes:
+	* Only parts for ball bearing/spring adjustement sare in this zip, namely
+	  wheel-gear-motor and wheel-famre-addon and wheel-bracket parts are missing
+	* Files not taken from a remix are also available in .step, parts from remixes
+	  only in .stl unfortunately
+	* Assembly Instructions from original project timestamped at wheel assembly:
+		https://youtu.be/ZRK9f4FZlD8?si=3oYJPzSPwdFrIE1S&t=244
+	* Parts are taken from remixes:
+		wheel-frame-left, wheel-frame-right, wheel-functional-part
+		(https://www.thingiverse.com/thing:4832742)
+			adds ball bearings (original size 6700 10x15x4mm)
+			and spring tread tensioning
+			
+		wheel-front-x4 (https://www.thingiverse.com/thing:4932310)
+			same remix as tread paperclip linkage, 
+			it should fit better with it
+
+Steps:
+
+0. IMPORTANT: All parts should be first scaled up by 5/3. 
+All files in this zip start original/unscaled.
+
+1. wheel-frame-left, wheel-frame-right, and wheel-functional-part 
+need to be adjusted to fit a 6803 bearing, which is 17x26x5mm. They
+should be inserted using a press fit, but add 0.2-0.3 to outer diameter
+(or use your own judgement). 
+Here's the specific ball bearing I ordered:
+	https://www.amazon.com/dp/B09D2P5K9Q
+
+2. All remaining parts except should be adjusted such that the axles 
+fit into the ball bearing (so should be diatemer 17), and the wheels 
+fit onto the axels.
