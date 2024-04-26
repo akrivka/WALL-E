@@ -1,1 +1,0 @@
-Wall-e realistic hand for "WALL-E Robot Replica" by chillibasket by Wujek_k on Thingiverse: https://www.thingiverse.com/thing:5391045

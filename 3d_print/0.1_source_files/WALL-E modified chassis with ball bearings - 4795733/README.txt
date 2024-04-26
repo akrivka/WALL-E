@@ -1,1 +1,0 @@
-WALL-E modified chassis with ball bearings by Fendermann on Thingiverse: https://www.thingiverse.com/thing:4795733

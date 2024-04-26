@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "dm1b")(type "KiCad")(uri "${KIPRJMOD}/lib/DM1B-DSF-PEJ_82_.kicad_sym")(options "")(descr ""))
+  (lib (name "lcd2004")(type "KiCad")(uri "${KIPRJMOD}/lib/LCD-20X4B.kicad_sym")(options "")(descr ""))
+  (lib (name "flat_pot")(type "KiCad")(uri "${KIPRJMOD}/lib/PTV09A-2015U-B103.kicad_sym")(options "")(descr ""))
+  (lib (name "and_gate")(type "KiCad")(uri "${KIPRJMOD}/lib/NC7SZ08M5X/2024-04-26_03-06-01.kicad_sym")(options "")(descr ""))
+  (lib (name "reset_chip")(type "KiCad")(uri "${KIPRJMOD}/lib/LM3724EM5_4_63_NOPB/2024-04-26_03-19-20.kicad_sym")(options "")(descr ""))
+)
