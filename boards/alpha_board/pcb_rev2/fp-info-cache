@@ -1,11 +1,11 @@
-23184809282388241
+23186533471769455
 Alpha Board rev2 library
 3pin_jumper
 
 
 0
-0
-0
+3
+3
 Alpha Board rev2 library
 4x4_Keypad
 
@@ -66183,6 +66183,13 @@ Mounting Hardware, inside through hole 4.5mm, height 10, Wuerth electronics 9774
 Mounting 4.5mm 9774100982
 0
 8
+1
+My_Footprint
+1pin
+
+
+0
+1
 1
 My_Footprint
 4x4_Keypad

@@ -60,7 +60,7 @@
         {
           "gap": 0.254,
           "via_gap": 0.0,
-          "width": 1.016
+          "width": 1.27
         }
       ],
       "drc_exclusions": [],
@@ -185,8 +185,7 @@
       ],
       "track_widths": [
         0.0,
-        0.1524,
-        0.2794,
+        0.2032,
         0.762,
         1.0668,
         1.778
@@ -223,16 +222,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.3302,
-          "drill": 0.0762
-        },
-        {
           "diameter": 1.016,
           "drill": 0.4826
-        },
-        {
-          "diameter": 1.778,
-          "drill": 1.397
         }
       ],
       "zones_allow_external_fillets": false
@@ -611,7 +602,7 @@
       "plot": "./gerber",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ee110_alpha_board_rev2.step",
       "svg": "./pdf",
       "vrml": ""
     },
