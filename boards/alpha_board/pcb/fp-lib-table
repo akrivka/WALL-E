@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "C:/projects/ee110_robot/boards/alpha_board/temp_footprint_export/Library.pretty")(options "")(descr ""))
+)
