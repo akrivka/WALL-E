@@ -1,4 +1,4 @@
-23154048282587760
+23155762404335158
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66057,6 +66057,13 @@ Mounting Hardware, inside through hole 4.5mm, height 10, Wuerth electronics 9774
 Mounting 4.5mm 9774100982
 0
 8
+1
+My_Footprint
+1pin
+
+
+0
+1
 1
 My_Footprint
 4x4_Keypad

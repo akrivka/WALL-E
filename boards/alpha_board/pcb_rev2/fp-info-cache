@@ -1,4 +1,4 @@
-23186533471769455
+23193396694800903
 Alpha Board rev2 library
 3pin_jumper
 
@@ -13,6 +13,13 @@ Alpha Board rev2 library
 0
 8
 8
+Alpha Board rev2 library
+1048P_KEY
+
+1048P 
+0
+4
+4
 Alpha Board rev2 library
 1049P_KEY
 
@@ -63,6 +70,13 @@ EE110_Antenna
 3
 2
 Alpha Board rev2 library
+EG1903
+
+
+0
+3
+3
+Alpha Board rev2 library
 HIROSE_DM1B-DSF-PEJ_82_
 
 
@@ -83,6 +97,13 @@ My_Power_Connector
 0
 2
 2
+Alpha Board rev2 library
+QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm
+QFN, 24 Pin (https://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+25
+25
 Alpha Board rev2 library
 RGZ0048A
 
@@ -118,6 +139,13 @@ TRIM_PTV09A-2015U-B103
 0
 5
 5
+Alpha Board rev2 library
+WALL-E
+
+
+0
+0
+0
 Alpha Board rev2 library
 WINSTAR-WH1604A
 Winstar or Bolymin 16x4 character LCD display
