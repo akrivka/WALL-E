@@ -1,0 +1,29 @@
+Hi, thanks for offering to help with this.
+
+I am building a real-life WALL-E according to this:
+* https://wired.chillibasket.com/3d-printed-wall-e/
+* https://www.thingiverse.com/thing:3703555
+
+I am building it 5/3 scaled up from the original version, 
+and I'm using a stronger motor:
+https://www.servocity.com/5202-series-yellow-jacket-planetary-gear-motor-26-9-1-ratio-24mm-length-6mm-d-shaft-223-rpm-36mm-gearbox-3-3-5v-encoder/
+
+I need to adjust the motor brackets so that the axle and screw holes 
+are still in the same location, but the circular motor bracket fits 
+the new motor (it's the same diameter, but it's longer. Because of the
+5/3 scaling, it is too small if you scale up the bracket directly.)
+
+In this zip there are the source .step files, which means that the 
+brackets are UNSCALED!!! So you need to scale them up by 5/3 if you're
+using a different software. There's also a Solidworks part which is scaled
+up. I also included the motor .step file and converted to Solidworks part.
+If at doubt, confer the links above or message me.
+
+Again: the axle and screw locations should stay the same. Assume I've just 
+taken all the models and scaled them up by 5/3 (which is basically what I
+did +- some other adjustments).
+
+You can send me this same zip file with the modified parts.
+
+Thanks
+Adam Krivka#adamkrivka
