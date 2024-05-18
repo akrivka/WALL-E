@@ -1,0 +1,1 @@
+Pinion gear/motor gear secured with grub screw by dmdiego on Thingiverse: https://www.thingiverse.com/thing:4932959
