@@ -6,7 +6,7 @@ For Blacker Hovse Ditch Day 2024 (Caltech tradition), we built a ~70% "real-life
 
 Here's my video of him when he was at his best (he's currently sitting in a closet in Blacker to be used as a static showcase project, while I study over in Switzerland...): 
 
-https://github.com/akrivka/WALL-E/raw/refs/heads/main/media/photos/IMG_7935.MOV
+https://github.com/user-attachments/assets/6cdb80cf-8617-4d74-ad6d-1ea3f1ae313b
 
 The model we used was https://www.thingiverse.com/thing:3703555, but we scaled it up by 5/3 which introduced a bunch of challenges. 
 
