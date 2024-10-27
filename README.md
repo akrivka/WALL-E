@@ -27,6 +27,6 @@ The model we used was https://www.thingiverse.com/thing:3703555, but we scaled i
 ## Some more photos
 
 ![](media/photos/IMG_6938.jpg)
-![](media/photos/IMG_6954_s.jpg)
+![](media/photos/IMG_6954_s.JPG)
 ![](media/photos/IMG_6767_s.jpg)
 ![](media/photos/IMG_6736_s.jpg)
