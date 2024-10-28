@@ -14,7 +14,7 @@ The model we used was https://www.thingiverse.com/thing:3703555, but we scaled i
 
 ## (rough) List of parts
 
-* Rapsberry Pi 4 (Bluetooth)
+* Rapsberry Pi 4 (Bluetooth) on Ubuntu 22.04 with ROS2 Humble installed
 * PS5 controller
 * [RoboClaw 2x15A Motor controller](https://www.basicmicro.com/RoboClaw-2x15A-Motor-Controller_p_10.html)
 * [5202 Yellow Jacket Planetary Gear Motor](https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-26-9-1-ratio-24mm-length-6mm-d-shaft-223-rpm-36mm-gearbox-3-3-5v-encoder/)
